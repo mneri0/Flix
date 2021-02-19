@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/CnWo2pi
-
-![](https://imgur.com/CnWo2pi)
+![](https://submissions.us-east-1.linodeobjects.com/ios_university/MQtbHQt-.gif)
 
 GIF created with [QuickTime Player](https://support.apple.com/en_US/downloads/quicktime).
 
