@@ -38,7 +38,7 @@ Just one tiny CocoaPod installation error.
 
 ## License
 
-    Copyright [2020] [Mike Neri]
+    Copyright [2021] [Mike Neri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
