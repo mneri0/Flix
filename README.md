@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-![Walkthrough](https://submissions.us-east-1.linodeobjects.com/ios_university/hMiKKwSk.gif)
+![Walkthrough](https://media2.giphy.com/media/pfJmkI29CbJP3YYMJU/giphy.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
