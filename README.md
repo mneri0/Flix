@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/mkskIKR.mp4" width=250><br>
+<img src="/images/Flix-Part-2-Walkthrough.mp4" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
