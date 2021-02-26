@@ -1,3 +1,24 @@
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="https://i.imgur.com/mkskIKR.mp4" width=250><br>
+
+### Notes
+Describe any challenges encountered while building the app.
+Had issues with the constraints of the collection view.
+
+
 # Flix - Movie Browser App
 
 Flix is a moving browsing application for iOS which lets the user view and scroll through a list of movies.
@@ -13,15 +34,11 @@ The following **required** functionality is complete:
 * [x] User sees app icon in home screen and styled launch screen
 * [x] User can view and scroll through a list of movies now playing in theaters
 * [x] User can view the movies in each row
-* [x] User can tap a cell to see more details about a particular movie
-* [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView
 
 The following **optional** features are implemented:
 
 * [x] User can view app on various device sizes and orientations
 * [x] Run your app on a real device
-* [x] User can tap a poster in the collection view to see a detail screen of that movie
-* [ ] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer
 
 ## Video Walkthrough
 
