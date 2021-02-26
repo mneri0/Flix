@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-[img]https://i.imgur.com/KQ2QJMf.mp4[/img]
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/hMiKKwSk.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
